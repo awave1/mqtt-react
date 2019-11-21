@@ -34,7 +34,7 @@
     "prop-types": "^15.5.8"
   },
   "devDependencies": {
-    "ava": "^0.19.1",
+    "ava": "^2.4.0",
     "ava-spec": "^1.1.0",
     "babel-cli": "^6.24.1",
     "babel-loader": "^7.0.0",
