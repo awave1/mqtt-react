@@ -14,26 +14,19 @@
     "type": "git",
     "url": "git+https://github.com/KeKs0r/mqtt-react.git"
   },
-  "keywords": [
-    "react",
-    "mqtt"
-  ],
+  "keywords": ["react", "mqtt"],
   "author": "Marc Höffl <marc.hoeffl@gmail.com>",
   "license": "MIT",
   "ava": {
-    "files": [
-      "./test/*.spec.js"
-    ],
+    "files": ["./test/*.spec.js"],
     "failFast": true,
     "tap": true,
     "verbose": true,
-    "require": [
-      "babel-register"
-    ],
+    "require": ["babel-register"],
     "babel": "inherit"
   },
   "dependencies": {
-    "mqtt": "^2.7.0"
+    "mqtt": "^3.0.0"
   },
   "peerDependencies": {
     "react": "^15.5.0",
