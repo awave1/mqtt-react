@@ -226,8 +226,9 @@ ava-init@^0.2.0:
     write-pkg "^2.0.0"
 
 ava-spec@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/ava-spec/-/ava-spec-1.1.0.tgz#b44e0d9c2183504203f95f3dd09f50d5e8f48f5c"
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/ava-spec/-/ava-spec-1.1.1.tgz#924c35619349595d3ec820cea181d69f19c40d50"
+  integrity sha512-SfW9c63C9eQq6Hy1xcZej1fAfpWgDefbd5FEacn0XKoCOSJ8k0zrLzoFfAZNBl5vX7MaS49GwGUpX70Yyjr7QA==
   dependencies:
     fn-name "^2.0.1"
     option-chain "^0.1.0"
