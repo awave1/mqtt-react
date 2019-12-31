@@ -48,7 +48,7 @@
     "react-dom": "^15.5.0",
     "prop-types": "^15.5.8",
     "react-test-renderer": "^15.5.4",
-    "sinon": "^2.2.0",
+    "sinon": "^8.0.2",
     "webpack": "^2.4.1"
   }
 }
